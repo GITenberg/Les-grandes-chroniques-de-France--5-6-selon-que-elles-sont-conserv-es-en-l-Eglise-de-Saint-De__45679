@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '31791'
     url: http://www.gutenberg.org/2009/agents/31791
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45679#Les-grandes-chroniques-de-France--5-6-selon-que-elles-sont-conserv-es-en-l-Eglise-de-Saint-De_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2014-05-18'
 gutenberg_type: Text
