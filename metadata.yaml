@@ -1,0 +1,36 @@
+_repo: Les-grandes-chroniques-de-France--5-6-selon-que-elles-sont-conserv-es-en-l-Eglise-de-Saint-De__45679
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45679-h/images/cover-page.jpg
+creator:
+  editor:
+    agent_name: Paris, Paulin
+    aliases:
+    - Paris, Alexis-Paulin
+    - Paris, A. Paulin (Alexis Paulin)
+    - Paris, P. (Paulin)
+    - Paulin, A. (Alexis)
+    birthdate: 1800
+    deathdate: 1881
+    gutenberg_agent_id: '31791'
+    url: http://www.gutenberg.org/2009/agents/31791
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2014-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45679'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Medieval period, 987-1515'
+- !lcsh 'France -- History -- To 987'
+- !lcsh 'France -- History -- Sources'
+- !lcc 'DC'
+title: 'Les grandes chroniques de France (5/6)
+
+  selon que elles sont conservées en l''Eglise de Saint-Denis en France'
+url: http://www.gutenberg.org/ebooks/45679
